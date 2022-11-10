@@ -1,0 +1,75 @@
+#container {
+    height: 500px;
+    width: 700px;
+    position: relative;
+    border: 3px solid rgb(51, 220, 13);
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    background-color: black;
+
+}
+
+h2 {
+    text-align: center;
+    color:rgb(51, 220, 13);
+}
+
+h1 {
+    text-align: center;
+    color: rgb(51, 220, 13);
+}
+
+h3 {
+    text-align: center;
+    color: rgb(51, 220, 13);
+}
+
+#rules {
+    margin-top: 80px;
+}
+
+#buttons {
+    margin: 0;
+    position: absolute;
+    top: 43%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    padding-top: 75px;
+    border-radius: 75px;
+}
+
+#🪨 {
+    background-color:  black;
+    /* padding: 20px; */
+    font-size: 30px;
+
+}
+
+#📃 {
+    background-color: black;
+    /* padding: 20px; */
+    font-size: 30px;
+}
+
+#✂️ {
+    background-color:  black;
+    /* padding: 20px; */
+    font-size: 30px;
+}
+
+#🦎 {
+    background-color: black;
+    /* padding: 20px; */
+    font-size: 30px;
+}
+
+#🖖 {
+    background-color: black;
+    /* padding: 20px; */
+    font-size: 30px;
+}
